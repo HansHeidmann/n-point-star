@@ -1,8 +1,6 @@
 # N Point Star
 
-//////////////////////////////////////////////  
-// N-Point Star  
-// Hans Heidmann 2021  
+///////////////////////////////////////////////////////////////////
 // Draws a Star with N Points on a canvas element using javascript  
 //  
 // By drawing 5, 6, 7, and 8 point stars I determined:  
